@@ -1,0 +1,9 @@
+# Thư mục rác biên dịch của Keil C
+DebugConfig
+Listings
+Objects
+
+# File cấu hình giao diện cá nhân của Keil C
+.uvguix.
+.uvoptx
+.dep
